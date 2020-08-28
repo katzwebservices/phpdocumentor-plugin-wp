@@ -1,5 +1,5 @@
 {
-    "name":          "gravityview/phpdocumentor-plugin-wp",
+    "name":          "katzwebservices/phpdocumentor-plugin-wp",
     "type":          "phpdocumentor-plugin",
     "description":   "Plugin for phpDocumentor 2 that adds support for documenting WordPress actions and filters.",
     "keywords":      ["documentation", "plugin", "wordpress", "wp", "phpdoc", "phpDocumentor"],
