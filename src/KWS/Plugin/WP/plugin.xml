@@ -4,7 +4,7 @@
     <name>WordPress</name>
     <version>1.0</version>
     <author>Zack Katz</author>
-    <email>zack@gravityview.co</email>
+    <email>zack@katz.co</email>
     <description>
         This plugin contains the classes to add WordPress action and filter support
         to phpDocumentor 2.
