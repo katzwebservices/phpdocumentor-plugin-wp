@@ -1,0 +1,15 @@
+{
+    "name":          "gravityview/phpdocumentor-plugin-wp",
+    "type":          "phpdocumentor-plugin",
+    "description":   "Plugin for phpDocumentor 2 that adds support for documenting WordPress actions and filters.",
+    "keywords":      ["documentation", "plugin", "wordpress", "wp", "phpdoc", "phpDocumentor"],
+    "homepage":      "https://gravityview.co",
+    "license":       "GPL-2.0-only",
+    "autoload": {
+        "psr-0":     { "phpDocumentor": "src/" }
+    },
+    "require": {
+        "php":       ">=5.3.3"
+    },
+    "minimum-stability": "dev"
+}

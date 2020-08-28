@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<plugin>
+    <name>WordPress</name>
+    <version>1.0</version>
+    <author>Zack Katz</author>
+    <email>zack@gravityview.co</email>
+    <description>
+        This plugin contains the classes to add WordPress action and filter support
+        to phpDocumentor 2.
+    </description>
+    <dependencies>
+        <phpdoc><min-version>2.0.0</min-version></phpdoc>
+    </dependencies>
+</plugin>
