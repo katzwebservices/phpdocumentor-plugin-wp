@@ -10,7 +10,9 @@
  * @link      https://www.katzwebservices.com
  */
 
-namespace phpDocumentor\Plugin\Core\Transformer\Behaviour\Tag;
+namespace KWS\Plugin\WP\Transformer\Behaviour\Tag;
+
+use phpDocumentor\Plugin\Core\Transformer\Behaviour\Tag\ParamTag;
 
 /**
  * Behaviour that adds support for the @filter tag
